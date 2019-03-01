@@ -1,0 +1,1 @@
+alert('implementazione di un avviso con javascript (test di funzionamento)');
